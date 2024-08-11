@@ -1,0 +1,18 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (flappy bird.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Bird.cpp
+  Game.cpp
+  main.cpp
+C:\Users\prati\source\repos\flappy bird\flappy bird\Game.cpp(181,85): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\prati\source\repos\flappy bird\flappy bird\Game.cpp(181,85): warning C4244:         with
+C:\Users\prati\source\repos\flappy bird\flappy bird\Game.cpp(181,85): warning C4244:         [
+C:\Users\prati\source\repos\flappy bird\flappy bird\Game.cpp(181,85): warning C4244:             T=float
+C:\Users\prati\source\repos\flappy bird\flappy bird\Game.cpp(181,85): warning C4244:         ]
+C:\Users\prati\source\repos\flappy bird\flappy bird\Game.cpp(181,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\prati\source\repos\flappy bird\flappy bird\Game.cpp(181,65): warning C4244:         with
+C:\Users\prati\source\repos\flappy bird\flappy bird\Game.cpp(181,65): warning C4244:         [
+C:\Users\prati\source\repos\flappy bird\flappy bird\Game.cpp(181,65): warning C4244:             T=float
+C:\Users\prati\source\repos\flappy bird\flappy bird\Game.cpp(181,65): warning C4244:         ]
+  Pipe.cpp
+C:\Users\prati\source\repos\flappy bird\flappy bird\Pipe.cpp(13,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  flappy bird.vcxproj -> C:\Users\prati\source\repos\flappy bird\x64\Debug\BCT12FLAPPYBIRD.exe
